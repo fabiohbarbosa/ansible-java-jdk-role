@@ -1,5 +1,9 @@
 ## OracleJDK [![Build Status](https://travis-ci.org/fabiohbarbosa/oracle-jdk.png)](https://travis-ci.org/fabiohbarbosa/oracle-jdk)
 
+Forked: [ANXS.oracle-jdk](https://github.com/ANXS/oracle-jdk).
+
+Motivation: keep the ansible role up to date and making improvements.
+
 Ansible role to install the latest update of Oracle/Sun JDK version(s).
 
 
