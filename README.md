@@ -1,4 +1,4 @@
-## ANXS - OracleJDK [![Build Status](https://travis-ci.org/fabiohbarbosa/oracle-jdk.png)](https://travis-ci.org/fabiohbarbosa/oracle-jdk)
+## OracleJDK [![Build Status](https://travis-ci.org/fabiohbarbosa/oracle-jdk.png)](https://travis-ci.org/fabiohbarbosa/oracle-jdk)
 
 Ansible role to install the latest update of Oracle/Sun JDK version(s).
 
