@@ -1,17 +1,17 @@
-## ANXS - OracleJDK [![Build Status](https://travis-ci.org/ANXS/oracle-jdk.png)](https://travis-ci.org/ANXS/oracle-jdk)
+## ANXS - OracleJDK [![Build Status](https://travis-ci.org/fabiohbarbosa/oracle-jdk.png)](https://travis-ci.org/fabiohbarbosa/oracle-jdk)
 
 Ansible role to install the latest update of Oracle/Sun JDK version(s).
 
 
 #### Requirements & Dependencies
-- Tested on Ansible 1.6 or higher
+- Tested on Ansible 2.0 or higher
 
 
 #### Variables
 
 ```yaml
-oracle_jdk_java_versions: [7]             # A list of java versions you want to have installed (6, 7 and/or 8)
-oracle_jdk_java_version_default: 7        # The java version you want to be the system default
+oracle_jdk_java_versions: [8]             # A list of java versions you want to have installed (6, 7, 8 and/or 9)
+oracle_jdk_java_version_default: 8        # The java version you want to be the system default
 ```
 
 
@@ -36,4 +36,4 @@ Licensed under the MIT License. See the LICENSE file for details.
 
 #### Feedback, bug-reports, requests, ...
 
-Are [welcome](https://github.com/ANXS/oracle-jdk/issues)!
+Are [welcome](https://github.com/fabiohbarbosa/oracle-jdk/issues)!
