@@ -1,5 +1,6 @@
 ## OracleJDK [![Build Status](https://travis-ci.org/fabiohbarbosa/oracle-jdk.png)](https://travis-ci.org/fabiohbarbosa/oracle-jdk)
 
+
 Forked: [ANXS.oracle-jdk](https://github.com/ANXS/oracle-jdk). Motivation: keep the ansible role up to date and making improvements.
 
 
@@ -23,6 +24,14 @@ oracle_jdk_java_version_default: 8        # The java version you want to be the 
 To switch between different Java versions, you could use the following terminal command:
 ```bash
 sudo update-alternatives --config java
+```
+
+
+#### Example Playbook
+
+```yaml
+  roles:
+    - { role: fabiohbarbosa.oracle-jdk, oracle_jdk_java_versions: [6,7,8,9], oracle_jdk_java_version_default: 8 }
 ```
 
 
