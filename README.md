@@ -1,4 +1,4 @@
-## OracleJDK [![Build Status](https://travis-ci.org/fabiohbarbosa/ansible-java-jdk-role.png)](https://travis-ci.org/fabiohbarbosa/ansible-java-jdk-role)
+## Ansible Java OracleJDK Role [![Build Status](https://travis-ci.org/fabiohbarbosa/ansible-java-jdk-role.png)](https://travis-ci.org/fabiohbarbosa/ansible-java-jdk-role)
 
 
 Forked: [ANXS.oracle-jdk](https://github.com/ANXS/oracle-jdk). Motivation: keep the ansible role up to date and making improvements.
