@@ -1,4 +1,4 @@
-## OracleJDK [![Build Status](https://travis-ci.org/fabiohbarbosa/oracle-jdk.png)](https://travis-ci.org/fabiohbarbosa/oracle-jdk)
+## OracleJDK [![Build Status](https://travis-ci.org/fabiohbarbosa/ansible-java-jdk-role.png)](https://travis-ci.org/fabiohbarbosa/ansible-java-jdk-role)
 
 
 Forked: [ANXS.oracle-jdk](https://github.com/ANXS/oracle-jdk). Motivation: keep the ansible role up to date and making improvements.
@@ -48,4 +48,4 @@ Licensed under the MIT License. See the LICENSE file for details.
 
 #### Feedback, bug-reports, requests, ...
 
-Are [welcome](https://github.com/fabiohbarbosa/oracle-jdk/issues)!
+Are [welcome](https://github.com/fabiohbarbosa/ansible-java-jdk-role/issues)!
