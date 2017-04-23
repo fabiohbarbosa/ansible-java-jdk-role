@@ -1,10 +1,15 @@
-## Ansible Java Oracle JDK Role [![Build Status](https://travis-ci.org/fabiohbarbosa/ansible-java-jdk-role.png)](https://travis-ci.org/fabiohbarbosa/ansible-java-jdk-role)
+Ansible Java Oracle JDK Role
+======
 
-
-Forked: [ANXS.oracle-jdk](https://github.com/ANXS/oracle-jdk). Motivation: keep the ansible role up to date and making improvements.
+[![Build Status](https://travis-ci.org/fabiohbarbosa/ansible-java-jdk-role.png)](https://travis-ci.org/fabiohbarbosa/ansible-java-jdk-role)
+[![Ansible Galaxy](https://img.shields.io/badge/ansible--galaxy-docker-blue.svg?style=flat-square)](https://galaxy.ansible.com/fabiohbarbosa/oracle-java-jdk/)
+[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 
 
 Ansible role to install the latest update of Oracle/Sun JDK version(s).
+
+
+Forked: [ANXS.oracle-jdk](https://github.com/ANXS/oracle-jdk). Motivation: keep the ansible role up to date and making improvements.
 
 
 #### Requirements & Dependencies
