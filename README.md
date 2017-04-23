@@ -2,7 +2,7 @@ Ansible Java Oracle JDK Role
 ======
 
 [![Build Status](https://travis-ci.org/fabiohbarbosa/ansible-java-jdk-role.png)](https://travis-ci.org/fabiohbarbosa/ansible-java-jdk-role)
-[![Ansible Galaxy](https://img.shields.io/badge/ansible--galaxy-docker-blue.svg?style=flat-square)](https://galaxy.ansible.com/fabiohbarbosa/oracle-java-jdk/)
+[![Ansible Galaxy](https://img.shields.io/badge/ansible--galaxy-vagrant-blue.svg?style=flat-square)](https://galaxy.ansible.com/fabiohbarbosa/oracle-java-jdk/)
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 
 
