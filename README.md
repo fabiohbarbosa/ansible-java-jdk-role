@@ -29,9 +29,11 @@ sudo update-alternatives --config java
 
 #### Example Playbook
 
+See [galaxy role](https://galaxy.ansible.com/fabiohbarbosa/oracle-java-jdk/)
+
 ```yaml
   roles:
-    - { role: fabiohbarbosa.oracle-jdk, oracle_jdk_java_versions: [6,7,8,9], oracle_jdk_java_version_default: 8 }
+    - { role: fabiohbarbosa.oracle-java-jdk, oracle_jdk_java_versions: [6,7,8,9], oracle_jdk_java_version_default: 8 }
 ```
 
 
