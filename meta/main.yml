@@ -14,4 +14,7 @@ galaxy_info:
   - system
   - development
 
+  galaxy_tags: [ development, system, java ]
+
+
 dependencies: []
