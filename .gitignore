@@ -8,3 +8,5 @@ Icon
 .vagrant
 test
 .history
+tests/**/Dockerfile
+tests/**/test-distro.sh

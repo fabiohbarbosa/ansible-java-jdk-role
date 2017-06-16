@@ -1,8 +1,30 @@
 {
   "files.exclude": {
-    "**/.history": true,
-    "**/.git": true,
-    "**/*.retry": true,
-    "**/.DS_Store": true
+    ".DS_Store": true,
+    ".AppleDouble": true,
+    ".LSOverride": true,
+    "Icon": true,
+    "._*": true,
+    ".Spotlight-V100": true,
+    ".Trashes": true,
+    ".vagrant": true,
+    "test": true,
+    ".history": true,
+    "tests/**/Dockerfile": true,
+    "tests/**/test-distro.sh": true
+  },
+  "search.exclude": {
+    ".DS_Store": true,
+    ".AppleDouble": true,
+    ".LSOverride": true,
+    "Icon": true,
+    "._*": true,
+    ".Spotlight-V100": true,
+    ".Trashes": true,
+    ".vagrant": true,
+    "test": true,
+    ".history": true,
+    "tests/**/Dockerfile": true,
+    "tests/**/test-distro.sh": true
   }
 }
