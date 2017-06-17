@@ -7,11 +7,9 @@
     "._*": true,
     ".Spotlight-V100": true,
     ".Trashes": true,
-    ".vagrant": true,
-    "test": true,
     ".history": true,
-    "tests/**/Dockerfile": true,
-    "tests/**/test-distro.sh": true
+    ".ansible": true,
+    ".bash_history": true
   },
   "search.exclude": {
     ".DS_Store": true,
@@ -21,10 +19,8 @@
     "._*": true,
     ".Spotlight-V100": true,
     ".Trashes": true,
-    ".vagrant": true,
-    "test": true,
     ".history": true,
-    "tests/**/Dockerfile": true,
-    "tests/**/test-distro.sh": true
+    ".ansible": true,
+    ".bash_history": true
   }
 }
